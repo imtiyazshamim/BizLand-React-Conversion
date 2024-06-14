@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BizLand-React-Conversion/static/css/main.0a45505e.css",
+    "main.js": "/BizLand-React-Conversion/static/js/main.7d852242.js",
+    "static/js/453.3a2e5004.chunk.js": "/BizLand-React-Conversion/static/js/453.3a2e5004.chunk.js",
+    "static/media/hero-bg.jpg": "/BizLand-React-Conversion/static/media/hero-bg.42216018bd702af38fa1.jpg",
+    "static/media/about.jpg": "/BizLand-React-Conversion/static/media/about.7a73aa6044c7bcf9d471.jpg",
+    "static/media/team-2.jpg": "/BizLand-React-Conversion/static/media/team-2.b2008acdf74612d89b8f.jpg",
+    "static/media/team-1.jpg": "/BizLand-React-Conversion/static/media/team-1.30c859cd9a02bb5dcc9a.jpg",
+    "static/media/team-3.jpg": "/BizLand-React-Conversion/static/media/team-3.ca581ae1628e295ec2a0.jpg",
+    "static/media/team-4.jpg": "/BizLand-React-Conversion/static/media/team-4.525dee063b26d6a44d1d.jpg",
+    "index.html": "/BizLand-React-Conversion/index.html",
+    "main.0a45505e.css.map": "/BizLand-React-Conversion/static/css/main.0a45505e.css.map",
+    "main.7d852242.js.map": "/BizLand-React-Conversion/static/js/main.7d852242.js.map",
+    "453.3a2e5004.chunk.js.map": "/BizLand-React-Conversion/static/js/453.3a2e5004.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a45505e.css",
+    "static/js/main.7d852242.js"
+  ]
+}
